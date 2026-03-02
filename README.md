@@ -1,16 +1,26 @@
-## Hi there 👋
+# Scott Lewis
 
-<!--
-**ScottMcKenzieLewis/ScottMcKenzieLewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused (mainly) on manufacturing-adjacent engineering tools.
 
-Here are some ideas to get you started:
+## Engineering Software Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Castara
+WPF application for estimating cast iron hardness and composition.
+
+https://github.com/ScottMcKenzieLewis/Castara
+
+### Mensara
+Command-line engineering tool for pipe calculations.
+
+Features:
+- Weight calculations
+- Flow calculations
+- Pressure estimation
+- Metric & US units
+- YAML configuration
+- Standalone executable
+
+https://github.com/ScottMcKenzieLewis/Mensara
+
+### Trusara (In Development)
+Pipe extrusion process simulator and engineering tool.
