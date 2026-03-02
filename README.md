@@ -1,6 +1,6 @@
 # Scott Lewis
 
-Software engineer focused (mainly) on manufacturing-adjacent engineering tools.
+Software engineer focused (for the moment, mainly) on manufacturing-adjacent engineering tools for portfolio projects.
 
 ## Engineering Software Projects
 
