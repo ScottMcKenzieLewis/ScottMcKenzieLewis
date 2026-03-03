@@ -5,12 +5,12 @@ Software engineer focused (for the moment, mainly) on manufacturing-adjacent eng
 ## Engineering Software Projects
 
 ### Castara
-WPF application for estimating cast iron hardness and composition.
+.NET WPF application for estimating cast iron hardness and composition.
 
 https://github.com/ScottMcKenzieLewis/Castara
 
 ### Mensara
-Command-line engineering tool for pipe calculations.
+Python command-line engineering tool for pipe calculations.
 
 Features:
 - Weight calculations
