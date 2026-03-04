@@ -32,3 +32,5 @@ https://github.com/ScottMcKenzieLewis/Mensara
 
 ### Trusara (In Development)
 .NET pipe extrusion process simulator and engineering tool.
+
+https://github.com/ScottMcKenzieLewis/Trusara
