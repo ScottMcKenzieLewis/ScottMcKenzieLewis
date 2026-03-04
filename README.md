@@ -7,6 +7,14 @@ Software engineer focused (for the moment, mainly) on manufacturing-adjacent eng
 ### Castara
 .NET WPF application for estimating cast iron hardness and composition.
 
+Features:
+- Carbon equivalent calculation
+- Graphitization scoring
+- Hardness estimation (Brinell)
+- Metallurgical risk flags
+- Material composition modeling
+- Engineering-focused WPF interface
+  
 https://github.com/ScottMcKenzieLewis/Castara
 
 ### Mensara
