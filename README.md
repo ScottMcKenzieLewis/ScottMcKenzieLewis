@@ -2,7 +2,7 @@
 
 Software engineer focused (for the moment, mainly) on manufacturing-adjacent engineering tools for portfolio projects.
 
-## Engineering Software Projects
+## Software Projects
 
 ### Castara
 .NET WPF application for estimating cast iron hardness and composition.
